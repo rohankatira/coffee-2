@@ -1,7 +1,10 @@
 # Coffee Shop Website Overview
 
 The Coffee Shop Website is a modern, responsive web application designed to showcase the offerings of a coffee shop. It provides users with an engaging and visually appealing experience, allowing them to explore various sections of the site, including the menu, products, gallery, and contact information. The website is built using HTML5, CSS3, and Bootstrap 5, ensuring a seamless and responsive design across different devices and screen sizes.
+##Deployed Link
+You can view the live version of the Coffee Shop Website at the following link:
 
+Coffee Shop Website
 ## Key Features
 
 1. **Responsive Design**: The website adapts to various screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
